@@ -1,0 +1,47 @@
+\\master\matheus\Instaladores(Programas)\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\ResolveAssemblyReference.cache
+\\master\matheus\Instaladores(Programas)\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Frm_cadastros.resources
+\\master\matheus\Instaladores(Programas)\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Frm_erro_geral.resources
+\\master\matheus\Instaladores(Programas)\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.frm_menu.resources
+\\master\matheus\Instaladores(Programas)\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.frm_login.resources
+\\master\matheus\Instaladores(Programas)\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Properties.Resources.resources
+\\master\matheus\Instaladores(Programas)\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.csproj.GenerateResource.Cache
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\ResolveAssemblyReference.cache
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_atendimento.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_responsavel.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_lista_item_atendimento.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_atendimento_pesquisa.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_atendimento_cadastro.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_responsavel_pesquisa.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_responsavel_cadastro.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_cliente_pesquisa.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_lista_endereco.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_cliente_cadastro.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_cliente.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Frm_erro_geral.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.frm_principal.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.frm_login.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_lista_contato.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_menu_principal.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_tela_carregando.resources
+G:\Gerenciador ANTT\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.csproj.GenerateResource.Cache
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\ResolveAssemblyReference.cache
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_menu_config.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_atendimento.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_responsavel.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_lista_item_atendimento.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_pagamento_cadastro.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_atendimento_pesquisa.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_atendimento_cadastro.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_responsavel_pesquisa.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_responsavel_cadastro.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_cliente_pesquisa.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_lista_endereco.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_cliente_cadastro.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_cliente.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Frm_erro_geral.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.frm_principal.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.frm_login.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_lista_contato.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_menu_principal.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.Formularios.Uc_tela_carregando.resources
+J:\Gerenciador ANTT\gerenciador_antt\gerenciador_antt\obj\Release\gerenciador_antt.csproj.GenerateResource.Cache

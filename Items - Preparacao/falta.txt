@@ -1,0 +1,17 @@
+inicio fim comd data search ir ate a data ou da data em diante
+-color no search atendimento pra quem tem pago ou nao;.
+-definir ativo desativo nas buscas;
+
+
+________________________________
+-Organizar;
+-Destravar ativos por codigo onde for legal;
+-comentar;
+-arrumar os tabindex;
+-encaixar nas telas;
+-ver a regra de negocio de ativo e desativo!
+---
+-Spac fechars;
+-tabIndex
+
+

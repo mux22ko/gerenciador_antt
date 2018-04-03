@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="gerenciador_antt.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="serverLocal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="bdNome" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gerenciador_antt</Value>
+    </Setting>
+    <Setting Name="usuario1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="senha1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="efeitoInterface" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="botoes_001" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">4, 36, 60</Value>
+    </Setting>
+    <Setting Name="botoes_002" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkOrange</Value>
+    </Setting>
+    <Setting Name="campos_001" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Gainsboro</Value>
+    </Setting>
+    <Setting Name="botoes_003" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="botoes_004" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Gray</Value>
+    </Setting>
+    <Setting Name="botao_quadrado_tamanho01" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">120, 120</Value>
+    </Setting>
+    <Setting Name="botao_retangular_tamanho01" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
